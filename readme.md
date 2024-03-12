@@ -19,5 +19,5 @@ Before you begin, ensure you have installed:
 First, clone the project repository to your local machine:
 
 ```bash
-git clone git@github.com:ghasara/grocery-booking-app.git grocery-booking-api
+git clone git@github.com:ghasara/qp-assessment.git grocery-booking-api
 cd grocery-booking-api
