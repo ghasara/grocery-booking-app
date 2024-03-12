@@ -9,8 +9,8 @@ The Grocery Booking API is a Node.js and TypeScript-based application designed t
 Before you begin, ensure you have installed:
 - Node.js (v14.x or newer)
 - npm (v6.x or newer)
-- Docker (20.10.x or newer) for running the application in containers
-- A MySQL database (v5.7 or newer) accessible for the application
+- Docker (20.10.x or newer)
+- A MySQL database (v5.7 or newer)
 
 ## Getting Started
 
@@ -19,5 +19,5 @@ Before you begin, ensure you have installed:
 First, clone the project repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git grocery-booking-api
+git clone git@github.com:ghasara/grocery-booking-app.git grocery-booking-api
 cd grocery-booking-api
